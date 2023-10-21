@@ -8,3 +8,7 @@
     font-weight: normal;
     font-style: normal;
 }
+.dropdown-icon {
+    @apply w-4 aspect-square object-cover object-center overflow-hidden self-center shrink-0 my-auto;
+}
+
