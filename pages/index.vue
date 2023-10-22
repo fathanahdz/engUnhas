@@ -2,6 +2,8 @@
   <div>
     <LandingPageHead/>
     <LandingPageGreet/>
+    <LandingPageGallery/>
+    <LandingPageDharmaWanita/>
   </div>
 </template>
 <!-- 

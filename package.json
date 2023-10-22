@@ -9,8 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
+    "tailwind-scrollbar-hide": "^1.1.7",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
