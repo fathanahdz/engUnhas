@@ -4,6 +4,7 @@
     <LandingPageGreet/>
     <LandingPageGallery/>
     <LandingPageDharmaWanita/>
+    <LandingPageBerita/>
   </div>
 </template>
 <!-- 
