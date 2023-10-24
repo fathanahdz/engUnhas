@@ -5,6 +5,8 @@
     <LandingPageGallery/>
     <LandingPageDharmaWanita/>
     <LandingPageBerita/>
+    <LandingPageVirtualKampus/>
+    <LandingPageFooter/>
   </div>
 </template>
 <!-- 
@@ -23,6 +25,11 @@ export default {
 </script> -->
 
 <style>
+
+*{
+  font-family: 'DM Sans';
+}
+
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
