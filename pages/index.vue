@@ -5,6 +5,7 @@
     <LandingPageGallery/>
     <LandingPageDharmaWanita/>
     <LandingPageBerita/>
+    <LandingPageAgenda/>
     <LandingPageVirtualKampus/>
     <LandingPageFooter/>
   </div>
