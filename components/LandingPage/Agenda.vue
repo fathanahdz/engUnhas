@@ -3,7 +3,7 @@
       <header class="justify-center items-center bg-grey self-center flex w-[197px] max-w-full flex-col mt-14 px-5 py-4">
         <h1 class="text-blue text-justify font-bold self-center">AGENDA</h1>
       </header>
-      <section class="justify-center self-center w-full max-w-[1216px] mt-12 max-md:max-w-full">
+      <section class="justify-center self-center w-full max-w-[80vw] mt-12 max-md:max-w-full">
         <div class="gap-5 flex ">
           <div class="flex flex-col items-stretch w-[15%] max-md:w-full max-md:ml-0">
             <div class="justify-center items-center self-stretch bg-amber-400 flex w-[180px] max-w-full grow flex-col mx-auto px-5 py-9 rounded-lg max-md:mt-4">

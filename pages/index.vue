@@ -37,4 +37,12 @@ export default {
   color: #2c3e50;
   font-family: 'DM Sans';
 }
+
+.dropdown-area:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content div:hover{
+  background-color: rgb(234,179,8);
+}
 </style>
