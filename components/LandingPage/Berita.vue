@@ -50,3 +50,14 @@
     </div>
     </div>
 </template>
+
+<script>
+    async function getBerita(){
+        const res = await fetch("http://localhost:8055/items/Berita")
+        const data = await res.json()
+        return data.data
+    }
+
+    const Berita = getBerita()
+    console.log(Berita)
+</script>

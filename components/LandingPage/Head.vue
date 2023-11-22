@@ -28,7 +28,7 @@
         <img loading="lazy" src="~/assets/images/logo.png" class="object-cover object-left w-[500px] max-w-full my-8"/>
       </div>
       <div class="justify-center items-center content-center flex-wrap bg-yellow flex flex-col">
-        <nav class="self-center flex w-full max-w-[80vw] items-start justify-between gap-5 my-6 max-md:max-w-full max-md:flex-wrap max-md:justify-center">
+        <nav class="self-center flex w-full max-w-[100%] items-start justify-between gap-5 my-6 max-md:max-w-full max-md:flex-wrap max-md:justify-center">
             <div class="items-start self-stretch flex justify-between gap-1">
                 <a href="#" class="text-blue text-justify text-sm font-bold self-stretch">Beranda</a>
             </div>
